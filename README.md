@@ -56,10 +56,10 @@ To start the Car Spec and Rental Web App backend, follow these steps:
 3. The backend application will start running on the default port specified in the configuration. You can now connect to it using the specified API endpoints.
 
 OR
-1. Open the project in Spring tool suit(STS).
-2. Run the project as java application, which will loada the project on the given server port.
-3. Run the Frontend of the project using react.
-4. You can check if the endpoints are running properly using post man application.
+1. Open the project in Spring Tool Suite (STS).
+2. Run the project as a Java application, which will load the project on the given server port.
+3. Run the Frontend of the project using React.
+4. You can check if the endpoints are running properly using  postman application.
 ## Contributing
 
 We welcome contributions to the Car Spec and Rental Web App backend. To contribute, please follow these steps:
