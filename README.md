@@ -59,10 +59,10 @@ OR
 1. Open the project in Spring Tool Suite (STS).
 2. Run the project as a Java application, which will load the project on the given server port.
 3. Run the Frontend of the project using React.
-4. You can check if the endpoints are running properly using  postman application.
+4. You can check if the endpoints are running properly using the Postman application.
 ## Contributing
 
-We welcome contributions to the Car Spec and Rental Web App backend. To contribute, please follow these steps:
+I welcome contributions to the Car Spec and Rental Web App backend. To contribute, please follow these steps:
 
 1. Fork this repository to your own GitHub account.
 2. Create a new branch based on the feature or bug you want to work on.
@@ -70,7 +70,7 @@ We welcome contributions to the Car Spec and Rental Web App backend. To contribu
 4. Push your changes to your forked repository.
 5. Submit a pull request detailing the changes you made.
 
-We appreciate your contributions!
+I appreciate your contributions!
 
 ## License
 
@@ -78,4 +78,4 @@ Please review the LICENSE file for more information about the licensing of this 
 
 ## Contact
 
-If you have any questions, suggestions, or concerns regarding the Car Spec and Rental Web App backend, please feel free to contact us at [insert contact email]. We appreciate your feedback!
+If you have any questions, suggestions, or concerns regarding the Car Spec and Rental Web App backend, please feel free to contact us at sanketchoudhary111@gmail.com. We appreciate your feedback!
