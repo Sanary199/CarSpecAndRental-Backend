@@ -74,8 +74,6 @@ We appreciate your contributions!
 
 ## License
 
-[Insert license information and link to the license file, if applicable]
-
 Please review the LICENSE file for more information about the licensing of this project.
 
 ## Contact
